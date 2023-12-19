@@ -14,12 +14,12 @@ Krishi Care goes beyond conventional agricultural support systems. It seamlessly
 - **Transformative Impact:** Witness the transformation in the lives of farmers as tradition converges with technology for agricultural empowerment.
 
 ## Technologies used
--System
+- **System**
 Browser
 Storage
 RAM
 Internet
--Tech Stack
+- **Tech Stack**
 HTML
 JAVASCRIPT
 CSS
